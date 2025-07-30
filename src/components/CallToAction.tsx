@@ -57,7 +57,7 @@ const CallToAction = () => {
 
               <div className="text-center space-y-1 text-sm text-muted-foreground">
                 <p>✅ Entrega imediata</p>
-                <p>✅ Garantia de 30 dias</p>
+                <p>✅ Garantia de 7 dias</p>
               </div>
             </CardContent>
           </Card>
@@ -126,7 +126,7 @@ const CallToAction = () => {
               <div className="space-y-3 pt-2">
                 <a href="https://go.paradisepagbr.com/hp6rdsvtdx" target="_blank" rel="noopener noreferrer">
                   <Button variant="premium" size="lg" className="w-full text-lg py-4 bg-white text-green-700 hover:bg-white/90 hover:text-green-800 font-bold shadow-xl">
-                    🚀 Quero o Kit Completo
+                    ✝️ Quero o Kit Completo
                   </Button>
                 </a>
               </div>
@@ -150,7 +150,7 @@ const CallToAction = () => {
             ))}
           </div>
           <p className="text-sm text-muted-foreground">
-            Avaliação 4.9/5 baseada em mais de 500 reviews
+            Avaliação 4.9/5 baseada em mais de 780 reviews
           </p>
         </div>
       </div>
